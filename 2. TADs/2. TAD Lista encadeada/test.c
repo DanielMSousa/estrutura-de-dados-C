@@ -19,7 +19,7 @@ int main(){
 
     //vou inserir um 15 no comeco
     lhead = &node;
-    ll_create_no(15)
+    ll_create_no(15);
 
 
     ll_print(node);
